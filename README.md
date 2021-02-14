@@ -22,7 +22,7 @@ Features include:
 
 </details>
 
-## Download
+<details><summary> Download </summary>
 Get the app from our [releases page](https://github.com/inorichi/tachiyomi/releases).
 
 If you want to try new features before they get to the stable release, you can download the preview version [here](http://tachiyomi.kanade.eu/latest).
@@ -30,6 +30,8 @@ If you want to try new features before they get to the stable release, you can d
 ## Issues, Feature Requests and Contributing
 
 Please make sure to read the full guidelines. Your issue may be closed without warning if you do not.
+
+</details>
 
 <details><summary>Issues</summary>
 
