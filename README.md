@@ -65,7 +65,7 @@ DON'T: https://github.com/inorichi/tachiyomi/issues/75
 Catalogue requests should be created at https://github.com/inorichi/tachiyomi-extensions, they do not belong in this repository.
 </details>
 
-## FAQ
+<details><summary> FAQ </summary>
 
 [See our website.](https://tachiyomi.org/)
 You can also reach out to us on [Discord](https://discord.gg/tachiyomi).
@@ -86,7 +86,7 @@ You can also reach out to us on [Discord](https://discord.gg/tachiyomi).
     See the License for the specific language governing permissions and
     limitations under the License.
 
-
+</details>
 
 <details>
 <summary>⚡️ Connect with me</summary>
