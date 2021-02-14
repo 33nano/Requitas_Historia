@@ -8,7 +8,7 @@ Tachiyomi is a free and open source manga reader for Android 5.0 and above.
 
 ![screenshots of app](./.github/readme-images/screens.png)
 
-## Features
+<details><summary> Features</summary>
 
 Features include:
 * Online reading from sources such as MangaDex, MangaSee, Mangakakalot, [and more](https://github.com/inorichi/tachiyomi-extensions)
@@ -19,6 +19,8 @@ Features include:
 * Light and dark themes
 * Schedule updating your library for new chapters
 * Create backups locally to read offline or to your desired cloud service
+
+</details>
 
 ## Download
 Get the app from our [releases page](https://github.com/inorichi/tachiyomi/releases).
@@ -82,9 +84,7 @@ You can also reach out to us on [Discord](https://discord.gg/tachiyomi).
     See the License for the specific language governing permissions and
     limitations under the License.
 
-## Disclaimer
 
-The developer of this application does not have any affiliation with the content providers available.
 
 <details>
 <summary>⚡️ Connect with me</summary>
